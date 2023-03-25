@@ -227,4 +227,9 @@ yah mujhe aur aapako kabhee nahin badalega'''  #night changes
             if ne=="e":
                 print("hurray!")
             else:
+<<<<<<< HEAD
                 print("try again")
+=======
+                print("try again")
+#end
+>>>>>>> jatin
