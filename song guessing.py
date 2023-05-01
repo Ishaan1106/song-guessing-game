@@ -228,5 +228,9 @@ yah mujhe aur aapako kabhee nahin badalega'''  #night changes
                 print("hurray!")
             else:
                 print("try again")
+<<<<<<< HEAD
 
 #kuchbe
+=======
+#end
+>>>>>>> 7b4065d (added read.md)
