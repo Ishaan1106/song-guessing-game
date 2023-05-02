@@ -16,4 +16,7 @@ but if the song guess is wrong then it will show "try again"
 - some python librarys 
 
 #author
-- 
+- [@Ishaan1106](https://github.com/Ishaan1106)
+- [@JayShree0](https://github.com/JayShree0)
+- [@jassika2233](https://github.com/jassika2233)
+- [@jjg2004](https://github.com/jjg2004)
